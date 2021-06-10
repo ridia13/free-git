@@ -1,7 +1,3 @@
 제로초 바보 멍청이
-<<<<<<< HEAD
-Suga is so cool
-=======
 Suga is so cool
 Jin is World Wide Hansome
->>>>>>> 5f94e57214590a9572227f929cf39b6d800da2d5
